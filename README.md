@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/myldz"><img src="https://github-profile-trophy.vercel.app/?username=myldz" alt="myldz" /></a> </p>
 <hr>
+
 - 🔭 I’m currently working on **Autonomous Mobile Robots and Automated Guided Vehicles**
 
 - 🌱 I’m currently learning **Cmake and Docker**
